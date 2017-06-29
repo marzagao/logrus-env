@@ -10,7 +10,7 @@ Initialize the hook by passing the keys of all environment variables you wish to
 package main
 
 import (
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/marzagao/logrus-env"
 )
 
